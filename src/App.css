@@ -1,38 +1,65 @@
 .App {
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
+  justify-content: center;
+  background-color: #2C3531;
   min-height: 100vh;
+  max-height: 100%;
+  width: 100vw;
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+h1 { 
+  color: white;
+  margin: 0px;
+}
+
+li { 
+  color: white;
+}
+
+form {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  background-image: linear-gradient(#2C3531, #116466);
+  /* background-color: #494D5F #845BB3; #845bb3 #DDBDF4 #E5EAF5 #A0D2EB */
+  padding: 20px;
 }
 
-.App-link {
-  color: #61dafb;
+/* 
+Blackish = #2C3531
+Dark Green = #116466
+darker beige = #D9B08C
+lighter beige = #FFCB9A
+Kinda green = D1E8E2 
+*/
+
+.Game {
+  background-color: #845bb3;
+  padding: 0px 20px;
+  width: 80%;
+  height: 100%;
+  align-self: center;
+  color: #DDBDF4; 
+  
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.form-label {
+  padding: 10px;
+}
+
+.form-select {
+  padding: 10px;
+  margin-bottom: 1em;
 }

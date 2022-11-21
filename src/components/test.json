@@ -1,0 +1,105 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Politics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which Native American tribe/nation requires at least one half blood quantum (equivalent to one parent) to be eligible for membership?",
+      "correct_answer": "Yomba Shoshone Tribe",
+      "incorrect_answers": [
+        "Standing Rock Sioux Tribe",
+        "Kiowa Tribe of Oklahoma",
+        "Pawnee Nation of Oklahoma"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "According to the American rapper Nelly, what should you do when its hot in here?",
+      "correct_answer": "Take off all your clothes",
+      "incorrect_answers": [
+        "Take a cool shower",
+        "Drink some water",
+        "Go skinny dipping"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of New Zealand&#039;s indigenous people?",
+      "correct_answer": "Maori",
+      "incorrect_answers": ["Vikings", "Polynesians", "Samoans"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the original name of  &quot;Minecraft&quot;?",
+      "correct_answer": "Cave Game",
+      "incorrect_answers": [
+        "Minecraft: Order of the Stone",
+        "Dig And Build",
+        "Infiniminer"
+      ]
+    },
+    {
+      "category": "Entertainment: Cartoon & Animations",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who created the Cartoon Network series &quot;Regular Show&quot;?",
+      "correct_answer": "J. G. Quintel",
+      "incorrect_answers": ["Ben Bocquelet", "Pendleton Ward", "Rebecca Sugar"]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In &quot;One Piece&quot;, what does &quot;the Pirate King&quot; mean to the captain of the Straw Hat Pirates?",
+      "correct_answer": "Freedom",
+      "incorrect_answers": ["Promise", "Adventure", "Friendship"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of the game developer who created &quot;Call Of Duty: Zombies&quot;?",
+      "correct_answer": "Treyarch",
+      "incorrect_answers": [
+        "Sledgehammer Games",
+        "Infinity Ward",
+        "Naughty Dog"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "During Wimbledon, spectators in the grounds can buy the tennis balls that have been used in matches.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Frankenmuth, a US city nicknamed &quot;Little Bavaria&quot;, is located in what state?",
+      "correct_answer": "Michigan",
+      "incorrect_answers": ["Pennsylvania", "Kentucky", "Virginia"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT one of the main characters in Grand Theft Auto V&rsquo;s story mode?",
+      "correct_answer": "Tommy Vercetti",
+      "incorrect_answers": [
+        "Michael de Santa",
+        "Franklin Clinton",
+        "Trevor Phillips"
+      ]
+    }
+  ]
+}
